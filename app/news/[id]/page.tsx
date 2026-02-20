@@ -1,6 +1,8 @@
+
 import { createClient } from "@supabase/supabase-js";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+
 
 /* ---------------------------------------
    TYPES
@@ -99,6 +101,10 @@ export default async function NewsDetailPage(
     params: Promise<{ id: string }>;
   }
 ) {
+
+  
+
+  
   const { id } = await props.params;
 
 

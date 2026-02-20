@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bagaha.live",
+      "sha256_cert_fingerprints": [
+        "43:01:83:57:76:3C:A3:40:BE:A1:00:28:63:32:0D:C2:AA:AD:F8:3A:CD:11:ED:63:14:D8:5B:56:E3:7A:EF:7E"
+      ]
+    }
+  }
+]
