@@ -4,6 +4,7 @@ export default function DeleteAccount() {
       <h1>Delete Account / खाता हटाएँ</h1>
       <p><strong>Effective Date:</strong> January 2026</p>
 
+<p>This policy applies to the mobile application "Bagaha Live" available on Google Play.</p>
       <p>
         Bagaha Live provides users the right to request deletion of their
         account and associated personal data in accordance with applicable laws
